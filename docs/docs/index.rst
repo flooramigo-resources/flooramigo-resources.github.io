@@ -11,8 +11,9 @@ A Read the Docs placement is only valid after the public documentation page load
 
 .. toctree::
    :maxdepth: 1
-   :caption: Highland Park resources
+   :caption: City resources
 
+   garland-vinyl-flooring-installation-cost-guide
    highland-park-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    highland-park-tx-vinyl-flooring-installation-cost-guide
 
