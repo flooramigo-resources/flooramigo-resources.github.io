@@ -1,7 +1,7 @@
 Dallas, TX: guia de costo de instalacion de pisos vinilicos
 ===========================================================
 
-Use `costo local de pisos vinilicos en Dallas <https://flooramigo.com/dallas-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `costo local de pisos vinilicos en Dallas <https://flooramigo.com/dallas-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/dallas-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes

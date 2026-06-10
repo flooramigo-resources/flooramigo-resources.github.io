@@ -1,7 +1,7 @@
 Sachse, TX: guia de costo de instalacion de pisos vinilicos
 ===========================================================
 
-Use `Sachse costo de instalacion de pisos vinilicos <https://flooramigo.com/sachse-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `Sachse costo de instalacion de pisos vinilicos <https://flooramigo.com/sachse-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/sachse-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes

@@ -1,7 +1,7 @@
 Lancaster, TX: guia de costo de instalacion de pisos vinilicos
 ==============================================================
 
-Use `Lancaster costo de instalacion de pisos vinilicos <https://flooramigo.com/lancaster-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `Lancaster costo de instalacion de pisos vinilicos <https://flooramigo.com/lancaster-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/lancaster-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes

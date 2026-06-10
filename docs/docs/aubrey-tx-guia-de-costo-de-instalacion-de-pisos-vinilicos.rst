@@ -1,7 +1,7 @@
 Aubrey, TX: guia de costo de instalacion de pisos vinilicos
 ===========================================================
 
-Use `costo de instalacion de pisos vinilicos en Aubrey <https://flooramigo.com/aubrey-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `costo de instalacion de pisos vinilicos en Aubrey <https://flooramigo.com/aubrey-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/aubrey-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes

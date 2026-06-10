@@ -1,7 +1,7 @@
 Allen, TX: guia de costo de instalacion de pisos vinilicos
 ==========================================================
 
-Use `costo local de pisos vinilicos en Allen <https://flooramigo.com/allen-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `costo local de pisos vinilicos en Allen <https://flooramigo.com/allen-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/allen-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes

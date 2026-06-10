@@ -1,7 +1,7 @@
 Farmers Branch, TX: guia de costo de instalacion de pisos vinilicos
 ===================================================================
 
-Use `costo local de pisos vinilicos en Farmers Branch <https://flooramigo.com/farmers-branch-tx/vinyl-flooring-installation-cost/?lang=es>`__ for the primary FloorAmigo resource for this local flooring topic.
+Use `costo local de pisos vinilicos en Farmers Branch <https://flooramigo.com/farmers-branch-tx/costo-de-instalacion-de-pisos-vinilicos/>`__ for the primary FloorAmigo resource for this local flooring topic.
 Related resource 1: `calculadora de pisos vinilicos de FloorAmigo <https://flooramigo.com/farmers-branch-tx/calculadora-de-pisos-vinilicos/>`__.
 
 Local notes
