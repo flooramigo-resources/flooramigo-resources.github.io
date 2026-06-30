@@ -1,4 +1,4 @@
-FloorAmigo Resource Notes
+﻿FloorAmigo Resource Notes
 ==========================
 
 This recipe-lab documentation page records public FloorAmigo city resources for verification.
@@ -12,6 +12,8 @@ A Read the Docs placement is only valid after the public documentation page load
 .. toctree::
    :maxdepth: 1
    :caption: City resources
+
+   vfc-cost-guides/jacksonville-fl-hardwood-flooring-installation-cost-guide
 
    garland-vinyl-flooring-installation-cost-guide
    garland-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
@@ -90,4 +92,5 @@ A Read the Docs placement is only valid after the public documentation page load
    waxahachie-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
    wylie-tx-vinyl-flooring-installation-cost-guide
    wylie-tx-guia-de-costo-de-instalacion-de-pisos-vinilicos
+
 
